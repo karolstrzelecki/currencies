@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/TPO2_SK_S17435"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="java-json" value="project"/>
+		<level name="owm-japis-2.5.0.5" value="project"/>
+		<level name="httpclient5-5.0 (2)" value="project"/>
+		<level name="httpcore5-5.0 (3)" value="project"/>
+		<level name="slf4j (2)" value="project"/>
+		<level name="logback (2)" value="project"/>
+		<level name="jackson-annotations-2.11.0.rc1" value="project"/>
+		<level name="jackson-core-2.11.0.rc1" value="project"/>
+		<level name="jackson-databind-2.11.0.rc1" value="project"/>
+		<level name="jsoup-1.13.1(1)" value="project"/>
+	</levels>
+</component>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="commons-logging-1.2" />
+  <library name="httpclient5-5.0">
+    <archive path="/Users/karol/Repo/TPO/TPO2_SK_S17435/lib/httpclient5-5.0.jar" />
+  </library>
+  <library name="httpclient5-5.0 (2)">
+    <archive path="/Users/karol/Repo/TPO/TPO2_SK_S17435/lib/httpclient5-5.0.jar" />
+  </library>
+  <library name="httpclient-4.5.2" />
+  <library name="httpcore5-5.0">
+    <archive path="/Users/karol/Repo/TPO/TPO2_SK_S17435/lib/httpcore5-5.0.jar" />
+  </library>
+  <library name="httpcore5-5.0 (2)">
+    <archive path="/Users/karol/Repo/TPO/TPO2_SK_S17435/lib/httpcore5-5.0.jar" />
+  </library>
+  <library name="httpcore5-5.0 (3)">
+    <archive path="/Users/karol/Repo/TPO/TPO2_SK_S17435/lib/httpcore5-5.0.jar" />
+  </library>
+  <library name="java-json">
+    <archive path="/Users/karol/Repo/TPO/TPO2_SK_S17435/lib/java-json.jar" />
+  </library>
+  <library name="logback">
+    <archive path="/Users/karol/Repo/TPO/TPO2_SK_S17435/lib/logback.jar" />
+  </library>
+  <library name="logback (2)">
+    <archive path="/Users/karol/Repo/TPO/TPO2_SK_S17435/lib/logback.jar" />
+  </library>
+  <library name="org.apache.httpcomponents.httpcore_4.4.9" />
+  <library name="org.apache.httpcomponents.httpcore_4.4.9 (2)" />
+  <library name="owm-japis-2.5.0.5">
+    <archive path="/Users/karol/Repo/TPO/TPO2_SK_S17435/lib/owm-japis-2.5.0.5.jar" />
+  </library>
+  <library name="owm-japis-2.5.3.0" />
+  <library name="slf4j">
+    <archive path="/Users/karol/Repo/TPO/TPO2_SK_S17435/lib/slf4j.jar" />
+  </library>
+  <library name="slf4j (2)">
+    <archive path="/Users/karol/Repo/TPO/TPO2_SK_S17435/lib/slf4j.jar" />
+  </library>
+  <library name="jackson-annotations-2.11.0.rc1">
+    <archive path="/Users/karol/Repo/TPO/TPO2_SK_S17435/lib/jackson-annotations-2.11.0.rc1.jar" />
+  </library>
+  <library name="jackson-core-2.11.0.rc1">
+    <archive path="/Users/karol/Repo/TPO/TPO2_SK_S17435/lib/jackson-core-2.11.0.rc1.jar" />
+  </library>
+  <library name="jackson-databind-2.11.0.rc1">
+    <archive path="/Users/karol/Repo/TPO/TPO2_SK_S17435/lib/jackson-databind-2.11.0.rc1.jar" />
+  </library>
+  <library name="jsoup-1.13.1(1)">
+    <archive path="/Users/karol/Repo/TPO/TPO2_SK_S17435/lib/jsoup-1.13.1(1).jar" />
+  </library>
+</eclipse-userlibraries>
+

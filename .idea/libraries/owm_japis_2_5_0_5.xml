@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="owm-japis-2.5.0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/owm-japis-2.5.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
